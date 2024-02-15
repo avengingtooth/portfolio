@@ -1,0 +1,12 @@
+#homeGrid{
+    width: 100%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+#home{
+    display: flex;
+    align-items: center;
+    flex-flow: column;
+}
