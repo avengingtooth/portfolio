@@ -1,5 +1,6 @@
 import { qrCode, screen, code } from "../images";
 import data from "../data.json"
+import { NavLink } from "react-router-dom";
 
 function Project(){
     let name = window.location.href.split("/");
@@ -9,6 +10,11 @@ function Project(){
     let title = data[name]["title"]
     return(
         <div>
+            <div id = "nav">
+                <NavLink to="/">
+                    <button>Home</button>
+                </NavLink>
+            </div>
             <h1>{title}</h1>
             <div id="project">
                 <img src = {screen(index)} alt="screen"></img>
