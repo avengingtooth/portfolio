@@ -7,11 +7,5 @@
         "url": "I_Have_A_Dream",
         "title": "I Have A Dream",
         "file": "./images/IHaveADream"
-    },
-    "?":{
-        "index": 0,
-        "url": "I_Have_A_Dream",
-        "title": "I Have Dream",
-        "qr_code": "./images/IHaveADream.png"
     }
 }
