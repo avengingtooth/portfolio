@@ -1,11 +1,18 @@
 {
     "projects":[
-        "I_Have_A_Dream"
+        "I_Have_A_Dream",
+        "Endangered_Birds"
     ],
     "I_Have_A_Dream":{
         "index": 0,
         "url": "I_Have_A_Dream",
         "title": "I Have A Dream",
         "file": "./images/IHaveADream"
+    },
+    "Endangered_Birds":{
+        "index": 1,
+        "url": "Endangered_Birds",
+        "title": "Endangered Birds",
+        "file": "./images/Bird"
     }
 }

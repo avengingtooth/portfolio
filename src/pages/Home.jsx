@@ -10,7 +10,7 @@ function Home(){
                 {
                     data["projects"].map((cur) => {
                         let project = data[cur]
-                        console.log(project);
+                        console.log(data["projects"]);
                         return(
                             <ProjectIcon key = {project["title"]} project = {project}/>
                         )
