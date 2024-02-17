@@ -2,7 +2,8 @@
     "projects":[
         "I_Have_A_Dream",
         "Endangered_Birds",
-        "Paint_Pot"
+        "Paint_Pot",
+        "Mandala"
     ],
     "I_Have_A_Dream":{
         "index": 0,
@@ -21,5 +22,11 @@
         "url": "Paint_Pot",
         "title": "Paint Pot",
         "file": "./images/PaintPot"
+    },
+    "Mandala":{
+        "index": 3,
+        "url": "Mandala",
+        "title": "Mandala",
+        "file": "./images/Mandala"
     }
 }
