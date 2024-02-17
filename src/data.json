@@ -4,7 +4,8 @@
         "Endangered_Birds",
         "Paint_Pot",
         "Mandala",
-        "Mole_Mash"
+        "Mole_Mash",
+        "Whack_A_Minion"
     ],
     "I_Have_A_Dream":{
         "index": 0,
@@ -35,5 +36,11 @@
         "url": "Mole_Mash",
         "title": "Mole Mash",
         "file": "./images/MoleMash"
+    },
+    "Whack_A_Minion":{
+        "index": 5,
+        "url": "Whack_A_Minion",
+        "title": "Whack A Minion",
+        "file": "./images/WhackAMinion"
     }
 }

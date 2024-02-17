@@ -18,12 +18,17 @@ import MoleMashQrCode from './images/MoleMash/qrcode.png'
 import MoleMashCode from './images/MoleMash/code.png'
 import MoleMashScreen from './images/MoleMash/screen.png'
 
+import WhackAMinionQrCode from './images/WhackAMinion/qrcode.png'
+import WhackAMinionCode from './images/WhackAMinion/code.png'
+import WhackAMinionScreen from './images/WhackAMinion/screen.png'
+
 function qrCode(index){
     if(index === 0) return IHaveADreamQrCode;
     else if(index === 1) return BirdQrCode;
     else if(index === 2) return PaintPotQrCode;
     else if(index === 3) return MandalaQrCode;
     else if(index === 4) return MoleMashQrCode;
+    else if(index === 5) return WhackAMinionQrCode;
     else return ""
 }
 
@@ -33,6 +38,7 @@ function code(index){
     else if(index === 2) return PaintPotCode;
     else if(index === 3) return MandalaCode;
     else if(index === 4) return MoleMashCode;
+    else if(index === 5) return WhackAMinionCode;
     else return ""
 }
 
@@ -42,6 +48,7 @@ function screen(index){
     else if(index === 2) return PaintPotScreen;
     else if(index === 3) return MandalaScreen;
     else if(index === 4) return MoleMashScreen;
+    else if(index === 5) return WhackAMinionScreen;
     else return ""
 }
 
