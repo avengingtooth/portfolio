@@ -3,7 +3,8 @@
         "I_Have_A_Dream",
         "Endangered_Birds",
         "Paint_Pot",
-        "Mandala"
+        "Mandala",
+        "Mole_Mash"
     ],
     "I_Have_A_Dream":{
         "index": 0,
@@ -28,5 +29,11 @@
         "url": "Mandala",
         "title": "Mandala",
         "file": "./images/Mandala"
+    },
+    "Mole_Mash":{
+        "index": 4,
+        "url": "Mole_Mash",
+        "title": "Mole Mash",
+        "file": "./images/MoleMash"
     }
 }
