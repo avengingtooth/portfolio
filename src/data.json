@@ -5,7 +5,8 @@
         "Paint_Pot",
         "Mandala",
         "Mole_Mash",
-        "Whack_A_Minion"
+        "Whack_A_Minion",
+        "Taylor_Swift_Quiz"
     ],
     "I_Have_A_Dream":{
         "index": 0,
@@ -42,5 +43,11 @@
         "url": "Whack_A_Minion",
         "title": "Whack A Minion",
         "file": "./images/WhackAMinion"
+    },
+    "Taylor_Swift_Quiz":{
+        "index": 6,
+        "url": "Taylor_Swift_Quiz",
+        "title": "Taylor Swift Quiz",
+        "file": "./images/TaylorSwiftQuiz"   
     }
 }
